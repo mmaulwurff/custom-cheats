@@ -1,0 +1,18 @@
+# SPDX-FileCopyrightText: 2021 Alexander Kromm <mmaulwurff@gmail.com>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+# Ignore everything, but not directories:
+
+*
+!**/
+
+# Except the following file types:
+
+!.gitignore
+!.gitattributes
+
+!**.txt
+!**.md
+!**.zs
+!**.sh
